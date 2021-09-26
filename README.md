@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Srashik
 - 👀 I’m interested in Web Development, Cloud Computing, and Software Development
-- 🌱 I’m currently learning javascript,AWS, HTML, CSS, and Xcode
+- 🌱 I’m currently learning Javascript,AWS, HTML, CSS, and Xcode
 - 💞️ I’m looking to collaborate on projects that can increase my knowledge of full-stack development and any projects that can help me master my understanding of those conepts.
 - 📫 You can reach me at srashik@dons.usfca.edu. 
 
